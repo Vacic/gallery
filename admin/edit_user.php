@@ -47,7 +47,7 @@
 						<div class="col-md-6 user_image_box">
 							<a href="#" data-toggle="modal" data-target="#photo-library"><img src="<?php echo $user->image_path_and_placeholder(); ?>" class="img-responsive"></a>
 						</div>
-						<form action="" method="post" enctype="multipart/form-data">
+						<form action="edit_user.php" method="post" enctype="multipart/form-data">
 							<div class="col-md-6">
 								<div class="form-group">
 									<label for="user_image">Photo</label>

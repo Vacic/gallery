@@ -35,7 +35,7 @@
 							Add User
 							<small>Subheading</small>
 						</h1>
-						<form action="" method="post" enctype="multipart/form-data">
+						<form action="add_user.php" method="post" enctype="multipart/form-data">
 							<div class="col-md-6 col-md-offset-3">
 								<div class="form-group">
 									<label for="user_image">Photo</label>

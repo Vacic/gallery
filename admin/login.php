@@ -22,7 +22,7 @@
 ?>
 <div class="col-md-4 col-md-offset-4">
 	<h4 class="bg-danger"><?php echo $the_message; ?></h4>
-	<form id="login-form" action="" method="post">
+	<form id="login-form" action="login.php" method="post">
 		<div class="form-group">
 			<label for="username">Username</label>
 			<input type="text" class="form-control" name="username" value="<?php echo htmlentities($username); ?>">

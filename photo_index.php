@@ -51,7 +51,7 @@
 				<p class="bg-success"><?php echo $message; ?></p>
 				<div class="well">
 					<h4>Leave a Comment:</h4>
-					<form role="form" method="post">
+					<form action="photo_index.php" role="form" method="post">
 						<div class="form-group">
 							<label for="author">Author</label>
 							<input type="text" name="author" class="form-control" value="<?php echo $user->username; ?>">

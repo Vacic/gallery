@@ -34,7 +34,7 @@
 						<h1 class="page-header">
 							Edit Comment
 						</h1>
-						<form action="" method="post">
+						<form action="edit_comment_photo.php" method="post">
 							<div class="col-md-6 col-md-offset-3">
 								<div class="form-group">
 									<label for="author">Author</label>

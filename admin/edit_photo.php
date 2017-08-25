@@ -34,7 +34,7 @@
 						<h1 class="page-header">
 							Edit photo
 						</h1>
-						<form action="" method="post">
+						<form action="edit_photo.php" method="post">
 							<div class="col-md-8">
 								<div class="form-group">
 									<a href="javascript: void();" class="btn"><img src="<?php echo $photo->picture_path(); ?>" alt="" class="thumbnail"></a>

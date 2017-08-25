@@ -1,6 +1,6 @@
 <?php 
-	define("DB_HOST", "localhost");
-	define("DB_USER", "root");
-	define("DB_PASS", "root");
-	define("DB_NAME", "gallery_db");
+	define("DB_HOST", "sql11.freemysqlhosting.net");
+	define("DB_USER", "sql11191610");
+	define("DB_PASS", "dajM1fRqGM");
+	define("DB_NAME", "sql11191610");
 ?>
