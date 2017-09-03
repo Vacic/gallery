@@ -1,6 +1,6 @@
 <?php 
-	define("DB_HOST", "sql11.freemysqlhosting.net");
-	define("DB_USER", "sql11191610");
-	define("DB_PASS", "dajM1fRqGM");
-	define("DB_NAME", "sql11191610");
+	define("DB_HOST", "johnny.heliohost.org");
+	define("DB_USER", "vacic_vacic");
+	define("DB_PASS", "82469173");
+	define("DB_NAME", "vacic_gallery");
 ?>
